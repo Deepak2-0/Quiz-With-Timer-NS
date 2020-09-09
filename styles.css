@@ -1,0 +1,27 @@
+body {
+  background-color: #065c6f;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  margin-top: 5%;
+  font-size: 2rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.correct {
+  background-color: #28df99;
+}
+.wrong {
+  background-color: red;
+}
+.scoreboard {
+  display: flex;
+}
+.timerboard {
+  display: flex;
+}
