@@ -23,7 +23,7 @@ let questions = [
     "The Revenant"
   ),
   new Question(
-    "Higest grossing movie of all time?",
+    "Highest grossing movie of all time?",
     ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars:The Force Awakens"],
     "Avengers: Endgame"
   ),
