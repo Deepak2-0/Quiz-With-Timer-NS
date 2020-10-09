@@ -25,3 +25,8 @@ body {
 .timerboard {
   display: flex;
 }
+li {
+  border: 2px solid white;
+  margin: 15px 10px;
+  padding: 5px 20px;
+}
